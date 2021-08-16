@@ -1,0 +1,15 @@
+matrix[3][3] = null; 
+while (1)
+{
+	while (1):
+	{
+	get value from user(1-9);
+	check which player turn;
+	map the value to its position in the 2d array;
+	check for winning or draw situation{
+	if it satisfied one condition break the loop;
+	} 
+	}
+check if the usr wants to play again? 
+if yes reset the variables,if no break the loop;
+}
